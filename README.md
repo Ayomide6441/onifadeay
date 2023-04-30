@@ -6,6 +6,18 @@ Front End Developer
 
 I'm a passionate front end developer with experience in CSS, React, JavaScript, Tailwind, Sass, and HTML. My goal is to create beautiful and responsive websites that provide a great user experience.
 
+## Skills
+
+- HTML
+- CSS
+- Sass
+- JavaScript
+- React
+- Tailwind
+- Git
+- Responsive design
+- User experience design
+
 ## Projects
 
 ### Project 1: React Todo App
