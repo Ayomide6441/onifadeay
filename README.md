@@ -24,6 +24,11 @@ I'm a passionate front end developer with experience in CSS, React, JavaScript, 
 
 A web app I created using React. Check it out [here](https://github.com/Ayomide6441/React-Todo-App).
 
+## Certifications
+
+- [The Complete Javascript Course 2023: from Zero to Expert](https://www.udemy.com/certificate/UC-c2853682-b482-43ef-852f-f9328f0d039f/)
+- [ Build Responsive Real-World Websites with HTML and CSS ](https://www.udemy.com/certificate/UC-3a7e66b0-7894-4a35-ab29-8fa429adf41d/)
+
 ## Blog Posts
 
 Check out some of my blog posts on Medium:
